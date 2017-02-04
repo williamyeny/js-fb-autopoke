@@ -1,8 +1,5 @@
-/**
-    Auto-poke script for Facebook US
+//Facebook auto-poke script
 
-    For other versions, replace "Poke Back" by the label used in your version
-*/
 console.info("Auto-poke loaded."); //how fast do you want it to check for pokes?
 
 var loopTime = 5000;
